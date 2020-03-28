@@ -1,0 +1,16 @@
+h1{
+	text-align: center;
+	background-color: black;
+	color:white;
+	font-size: 50px;
+}
+
+.team{
+	padding-right: 15%;
+}
+body{
+	background-color:black;
+}
+.photos{
+	padding-left:25%;
+}

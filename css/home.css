@@ -1,0 +1,65 @@
+*{
+	height: auto;
+}
+	body{
+	background-color:#d8bfd8;
+	line-height: 1.6em;
+}
+.container{
+	width:80%;
+	margin:auto;
+	overflow:hidden;
+}
+#main-header{
+	background-color:#f3d4d4;
+}
+
+#navbar{
+	background-color: plum;
+}
+#navbar ul{
+	padding: 0;
+	list-style:none;
+}
+#navbar li{
+	display: inline;
+}
+#navbar a{
+	text-decoration: none;
+	font-size: 18px;
+	color:black;
+	padding-right: 80px;
+	padding-left: 50px;
+}
+#showcase{
+	text-align: center;
+	height: 250px;
+	background-image: url('../images/women.jpg');
+	background-repeat: no-repeat;
+	margin-bottom: 30px;
+	background-position: center;
+}
+#main-header h1{
+	text-align: center;
+	font-size: 40px;
+	color: maroon;
+}
+#main{
+	width:65%;
+	float:left;
+	font-size: 20px;
+	font-family:'calibri';
+}
+#sidebar{
+	width:30%;
+	float:right;
+	padding: 10px;
+	background-color:plum;
+	border-radius: 10px;
+}
+#sidebar label{
+	width:150px;
+	display: inline-block;
+	font-size: 15PX;
+}
+

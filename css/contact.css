@@ -1,0 +1,31 @@
+body{
+	background-color:skyblue;
+}
+.container{
+	background-color: white;
+}
+
+.details{
+	width:30%;
+	float:left;
+	margin-top: 10%;
+	margin-left: 20%;
+	font-size:25px;
+	padding-left: 5%;
+	background-color: white;
+	height:348.5px;
+}
+
+.image{
+	width: 25%;
+	float:right;
+	margin-top: 10%;
+	padding-right: 20%;
+
+}
+.details h1{
+	color: mediumpurple;
+}
+.details p{
+	color: orange;
+}
